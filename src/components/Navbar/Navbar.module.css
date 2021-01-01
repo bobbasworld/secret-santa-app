@@ -1,0 +1,23 @@
+.navContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+}
+
+.navItem {
+  position: relative;
+}
+
+.logoTitle {
+  position: absolute;
+  top: 7em;
+  display: inline-block;
+  font-weight: 800;
+  color: crimson;
+  text-transform: uppercase;
+  padding-bottom: -2em;
+}
